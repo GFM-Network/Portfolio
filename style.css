@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background-image: url("https://portfolio-egz.pages.dev/background3.jpg");
+    background-image: url("https://portfolio-egz.pages.dev/background.jpg");
     background-position: center; height: 100vh; /* Center the image */
     background-repeat: no-repeat;
     /*background: url(https://portfolio.gabreuf.com/background1.jpg) no-repeat center;    height: 100vh;*/
